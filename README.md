@@ -4,8 +4,8 @@ Mi 'Pet project' con utilidades que me sirven a mí. Prometo compartir el codigo
 Varios de los códigos que uso acá ya están subidos en el vertedero (aunque sean versiones atiguas).<br/>
 <br/>
 Funciones actuales: <br/>
-Efecto de ripple y halo para el mouse (Estéticos, para tener feedback al hacer clik y para que no se pierda).<br/>
-Limpiar la standby memory de la ram.<br/>
+Efecto de ripple y halo para el mouse (Estéticos, para tener feedback al hacer click y para que no se pierda).<br/>
+Limpiar la standby memory de la ram (usando RAMMap).<br/>
 Descargar de memoria páginas del explorador (firefox).<br/>
 Reiniciar el reconocimiento del joystick genérico.<br/>
 Abrir un todos los links que se peguen en la caja de 'link opener', filtrando con regex lo que no sea un link.<br/>
