@@ -8,7 +8,7 @@ Efecto de ripple y halo para el mouse (Estéticos, para tener feedback al hacer 
 Limpiar la standby memory de la ram (usando RAMMap).<br/>
 Descargar de memoria páginas del explorador (firefox).<br/>
 Reiniciar el reconocimiento del joystick genérico.<br/>
-Abrir un todos los links que se peguen en la caja de 'link opener', filtrando con regex lo que no sea un link.<br/>
+Abrir todos los links que se peguen en la caja de 'link opener', filtrando con regex lo que no sea un link.<br/>
 Poder arrastrar cualquier ventana desde cualquier posicion al mantener ambos botones del mouse.<br/>
 Ejecuta programas varios.<br/>
 Abre páginas web especificas que uso.<br/>
